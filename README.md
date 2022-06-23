@@ -1,6 +1,5 @@
 # paper-notes
-
-Notes on academic papers that I've read. Because remembering things is hard.
+Because remembering things is hard.
 
 ## 2022
 ### June
