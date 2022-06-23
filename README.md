@@ -4,3 +4,4 @@ Because remembering things is hard.
 ## 2022
 ### June
 - Policy Consolidation for Continual Reinforcement Learning [[paper](https://arxiv.org/pdf/1902.00255.pdf)][[notes](https://github.com/jordancoblin/paper-notes/blob/main/Policy_Consolidation_for_Continual%20Reinforcement_Learning.md)]
+- Towards Continual Reinforcement Learning: A Review and Perspectives [[paper](https://arxiv.org/pdf/2012.13490.pdf)]
