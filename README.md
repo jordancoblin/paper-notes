@@ -11,6 +11,7 @@ Because remembering things is hard.
 Stochastic Gradient Descent with Persistent Randomness [[paper](https://arxiv.org/pdf/2108.06325.pdf)][[notes](https://github.com/jordancoblin/paper-notes/blob/main/continual_backprop.md)]
 - Deep Reinforcement Learning with Double Q-learning [[paper](https://arxiv.org/pdf/1509.06461v3.pdf)][[notes](https://github.com/jordancoblin/paper-notes/blob/main/double_dqn.md)]
 - Implicit under-parameterization inhibits data-efficient deep reinforcement learning [[paper](https://arxiv.org/pdf/2010.14498.pdf)][[notes](https://github.com/jordancoblin/paper-notes/blob/main/under_parameterization_deep_rl.md)]
+- Towards Continual Reinforcement Learning: A Review and Perspectives [[paper](https://arxiv.org/pdf/2012.13490.pdf)][[slides](https://github.com/jordancoblin/paper-notes/blob/main/Continual%20Learning%20in%20RL.key)]
 
 ## TO ADD (already read)
 - Memento paper
