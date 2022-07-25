@@ -21,5 +21,5 @@ Stochastic Gradient Descent with Persistent Randomness [[paper](https://arxiv.or
 - Attention is all you need [[paper](https://arxiv.org/pdf/1706.03762.pdf)]
 - Gato paper [[paper](https://arxiv.org/pdf/2205.06175.pdf)]
 - BERT paper [[paper](https://arxiv.org/abs/1810.04805)]
-- DALL-E paper
+- DALL-E paper [[paper](https://arxiv.org/pdf/2102.12092.pdf)]
 - “Why Should I Trust You?” Explaining the Predictions of Any Classifier [[paper](https://arxiv.org/pdf/1602.04938.pdf)]
