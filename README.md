@@ -19,6 +19,8 @@ Stochastic Gradient Descent with Persistent Randomness [[paper](https://arxiv.or
 
 ## TO READ
 - Attention is all you need [[paper](https://arxiv.org/pdf/1706.03762.pdf)]
+- Mastering the game of Go with deep
+neural networks and tree search (first AlphaGo paper) [[paper](https://www.nature.com/articles/nature16961.pdf)]
 - Gato paper [[paper](https://arxiv.org/pdf/2205.06175.pdf)]
 - BERT paper [[paper](https://arxiv.org/abs/1810.04805)]
 - DALL-E paper [[paper](https://arxiv.org/pdf/2102.12092.pdf)]
