@@ -23,3 +23,4 @@ Stochastic Gradient Descent with Persistent Randomness [[paper](https://arxiv.or
 - BERT paper [[paper](https://arxiv.org/abs/1810.04805)]
 - DALL-E paper [[paper](https://arxiv.org/pdf/2102.12092.pdf)]
 - “Why Should I Trust You?” Explaining the Predictions of Any Classifier [[paper](https://arxiv.org/pdf/1602.04938.pdf)]
+- Algos: TRPO, PPO, A3C
