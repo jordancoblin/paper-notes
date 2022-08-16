@@ -33,7 +33,7 @@ Estimate value function that predicts outcome from position s if both players fo
 Combine policy + value nets in an MCTS algo -> select actions by lookahead search.
 
 **MCTS**
-Selection: select edges with argmax(Q + u(P)), where u(P) is proportional to prior probability (from expert SL policy) and decays with visits to encourage exploration. This process ends once traversal reaches a leaf node (a node for which we have not yet run rollouts). 
-Expansion: once a leaf node has been visited n_thresh times, add it to the search tree by initializing from prior P.
-Evaluation: evluate in two ways. First, using the value network and second, by running a rollout to end of game using fast policy network. Combine these two values into V(S_L) with mixing param \lambda. 
-Backup: update Q values and visit counts of all traversed edges. 
+- Selection: select edges with argmax(Q + u(P)), where u(P) is proportional to prior probability (from expert SL policy) and decays with visits to encourage exploration. This process ends once traversal reaches a leaf node (a node for which we have not yet run rollouts). 
+- Expansion: once a leaf node has been visited n_thresh times, add it to the search tree by initializing from prior P.
+- Evaluation: evluate in two ways. First, using the value network and second, by running a rollout to end of game using fast policy network. Combine these two values into V(S_L) with mixing param \lambda. 
+- Backup: update Q values and visit counts of all traversed edges. 
