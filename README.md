@@ -15,7 +15,7 @@ Stochastic Gradient Descent with Persistent Randomness [[paper](https://arxiv.or
 
 ### August
 - Mastering the game of Go with deep
-neural networks and tree search (first AlphaGo paper) [[paper](https://www.nature.com/articles/nature16961.pdf)][[notes](https://github.com/jordancoblin/paper-notes/blob/main/alpha_go_1.md)]
+neural networks and tree search (AlphaGo paper) [[paper](https://www.nature.com/articles/nature16961.pdf)][[notes](https://github.com/jordancoblin/paper-notes/blob/main/alpha_go_1.md)]
 
 ## TO ADD (already read)
 - Memento paper
