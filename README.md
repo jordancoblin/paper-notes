@@ -33,3 +33,4 @@ neural networks and tree search (AlphaGo paper) [[paper](https://www.nature.com/
 - TRPO paper [[paper](https://arxiv.org/abs/1502.05477)]
 - [Learning to summarize from human feedback](https://arxiv.org/pdf/2009.01325.pdf)
 - [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://arxiv.org/abs/1611.05397)
+- [The Phenomenon of Policy Churn](https://arxiv.org/pdf/2206.00730.pdf)
