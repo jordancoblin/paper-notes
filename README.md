@@ -35,6 +35,6 @@ neural networks and tree search (AlphaGo paper) [[paper](https://www.nature.com/
 - Model-based DRL: [World Models](https://arxiv.org/abs/1803.10122) -> [SimPLe](https://arxiv.org/abs/1903.00374) -> [PlaNet](https://arxiv.org/abs/1811.04551) -> [Dreamer](https://arxiv.org/abs/1912.01603)/[DreamerV2](https://arxiv.org/pdf/2010.02193.pdf)
 - TRPO paper [[paper](https://arxiv.org/abs/1502.05477)]
 - [Learning to summarize from human feedback](https://arxiv.org/pdf/2009.01325.pdf)
-- [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://arxiv.org/abs/1611.05397) -> [Universal Value Function Approximators](http://proceedings.mlr.press/v37/schaul15.pdf) -> - [Unicorn: Continual learning with a universal,
+- [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://arxiv.org/abs/1611.05397) -> [Universal Value Function Approximators](http://proceedings.mlr.press/v37/schaul15.pdf) -> [Unicorn: Continual learning with a universal,
 off-policy agent](https://arxiv.org/pdf/1802.08294.pdf)
 
