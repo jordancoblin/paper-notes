@@ -38,4 +38,5 @@ neural networks and tree search (AlphaGo paper) [[paper](https://www.nature.com/
 - [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://arxiv.org/abs/1611.05397)
 - [Unicorn: Continual learning with a universal,
 off-policy agent](https://arxiv.org/pdf/1802.08294.pdf)
+- [Universal Value Function Approximators](http://proceedings.mlr.press/v37/schaul15.pdf)
 
