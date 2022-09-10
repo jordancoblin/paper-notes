@@ -19,6 +19,9 @@ Stochastic Gradient Descent with Persistent Randomness [[paper](https://arxiv.or
 neural networks and tree search (AlphaGo paper) [[paper](https://www.nature.com/articles/nature16961.pdf)][[notes](https://github.com/jordancoblin/paper-notes/blob/main/alpha_go_1.md)]
 - World Models [[paper](https://arxiv.org/pdf/1803.10122.pdf)][[notes](https://github.com/jordancoblin/paper-notes/blob/main/world_models.md)]
 
+### September
+- [The Phenomenon of Policy Churn](https://arxiv.org/pdf/2206.00730.pdf)
+
 ## TO ADD (already read)
 - Memento paper
 - Capacity loss paper
@@ -33,4 +36,4 @@ neural networks and tree search (AlphaGo paper) [[paper](https://www.nature.com/
 - TRPO paper [[paper](https://arxiv.org/abs/1502.05477)]
 - [Learning to summarize from human feedback](https://arxiv.org/pdf/2009.01325.pdf)
 - [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://arxiv.org/abs/1611.05397)
-- [The Phenomenon of Policy Churn](https://arxiv.org/pdf/2206.00730.pdf)
+
