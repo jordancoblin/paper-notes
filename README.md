@@ -20,7 +20,7 @@ neural networks and tree search (AlphaGo paper) [[paper](https://www.nature.com/
 - World Models [[paper](https://arxiv.org/pdf/1803.10122.pdf)][[notes](https://github.com/jordancoblin/paper-notes/blob/main/world_models.md)]
 
 ### September
-- [The Phenomenon of Policy Churn](https://arxiv.org/pdf/2206.00730.pdf) [[notes](https://github.com/jordancoblin/paper-notes/blob/main/policy_churn.md)]
+- The Phenomenon of Policy Churn [[paper](https://arxiv.org/pdf/2206.00730.pdf)] [[notes](https://github.com/jordancoblin/paper-notes/blob/main/policy_churn.md)]
 
 ## TO ADD (already read)
 - Memento paper
