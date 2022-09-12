@@ -42,7 +42,7 @@ Policy gradient progression:
 - Blog post: https://sanyamkapoor.com/kb/policy-gradients-in-a-nutshell
 - [Policy Gradient Methods for
 Reinforcement Learning with Function
-Approximation ](https://proceedings.neurips.cc/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf) / [Simple statistical gradient-following algorithms for connectionist reinforcement learning](https://link.springer.com/article/10.1007/BF00992696) -> [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf])
+Approximation ](https://proceedings.neurips.cc/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf) / [Simple statistical gradient-following algorithms for connectionist reinforcement learning](https://link.springer.com/article/10.1007/BF00992696) -> [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf]) -> [DDPG](https://arxiv.org/pdf/1509.02971.pdf)
 
 OpenAI Spinning up RL Key Papers:
 
