@@ -47,6 +47,10 @@ Approximation ](https://proceedings.neurips.cc/paper/1999/file/464d828b85b0bed98
 - [A3C (Asynchronous methods for deep reinforcement
 learning)](https://arxiv.org/abs/1602.01783)
 
+Good experimentation practices:
+- [Deep Reinforcement Learning that Matters](https://arxiv.org/abs/1709.06560)
+- [Evaluating the Performance of Reinforcement Learning Algorithms](https://arxiv.org/pdf/2006.16958.pdf)
+
 OpenAI Spinning up RL Key Papers:
 
 https://spinningup.openai.com/en/latest/spinningup/keypapers.html
