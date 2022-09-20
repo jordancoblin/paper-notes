@@ -51,6 +51,9 @@ Good experimentation practices:
 - [Deep Reinforcement Learning that Matters](https://arxiv.org/abs/1709.06560)
 - [Evaluating the Performance of Reinforcement Learning Algorithms](https://arxiv.org/pdf/2006.16958.pdf)
 
+RNN world models/event simulators:
+- [Recurrent Environment Simulators](https://arxiv.org/abs/1704.02254)
+
 OpenAI Spinning up RL Key Papers:
 
 https://spinningup.openai.com/en/latest/spinningup/keypapers.html
