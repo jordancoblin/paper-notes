@@ -55,6 +55,10 @@ Good experimentation practices:
 RNN world models/event simulators:
 - [Recurrent Environment Simulators](https://arxiv.org/abs/1704.02254)
 
+Continual Learning in DRL/Performance Collapse/Dying ReLUs/etc:
+- [Which Neural Net Architectures Give Rise To Exploding and Vanishing Gradients?](https://arxiv.org/abs/1801.03744) (2018)
+- [Dying ReLU and Initialization: Theory and Numerical Examples](https://arxiv.org/abs/1903.06733) (2019)
+
 OpenAI Spinning up RL Key Papers:
 
 https://spinningup.openai.com/en/latest/spinningup/keypapers.html
