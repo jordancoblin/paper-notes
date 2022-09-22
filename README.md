@@ -6,6 +6,7 @@ Because remembering things is hard.
 - Policy Consolidation for Continual Reinforcement Learning [[paper](https://arxiv.org/pdf/1902.00255.pdf)][[notes](https://github.com/jordancoblin/paper-notes/blob/main/Policy_Consolidation_for_Continual%20Reinforcement_Learning.md)]
 - Towards Continual Reinforcement Learning: A Review and Perspectives [[paper](https://arxiv.org/pdf/2012.13490.pdf)]
 - No More Pesky Hyperparameters: Offline Hyperparameter Tuning for RL [[paper](https://arxiv.org/abs/2205.08716)] [[notes](https://github.com/jordancoblin/paper-notes/blob/main/han_calib_model.md)]
+- On Catastrophic Interference in Atari 2600 Games [[paper](https://arxiv.org/pdf/2002.12499.pdf)][[notes](https://github.com/jordancoblin/paper-notes/blob/main/memento.md)]
 
 ### July
 - Continual Backprop:
