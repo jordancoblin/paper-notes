@@ -11,9 +11,9 @@ Issues:
 
 **Regularization to the Rescue**
 Can regularize the latent space, such that it also holds some properties that are useful for data generation. These properties are:
-a) **Continuity**: Points that are close together in latent space also produce similar outputs.
-b) **Completenes**: All points in the latent space produce some "meaningful" output.
-c) Avoid overfitting of input data.
+1. **Continuity**: Points that are close together in latent space also produce similar outputs.
+2. **Completenes**: All points in the latent space produce some "meaningful" output.
+3. Avoid overfitting of input data.
 
 **Variational Autoencoders**: encoder now maps to _distributions_ over the latent space instead of points. Points are then sampled from this distribution and fed into the decoder to compute reconstruction error.
 
