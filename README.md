@@ -27,7 +27,6 @@ neural networks and tree search (AlphaGo paper) [[paper](https://www.nature.com/
 - [Blog Post] Understanding Variational Autoencoders (VAEs) [[post](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)][[notes](https://github.com/jordancoblin/paper-notes/blob/main/vaes_blog_post.md)]
 
 ## TO ADD (already read)
-- Memento paper
 - Capacity loss paper
 
 ## TO READ
