@@ -22,8 +22,9 @@ neural networks and tree search (AlphaGo paper) [[paper](https://www.nature.com/
 - World Models [[paper](https://arxiv.org/pdf/1803.10122.pdf)][[notes](https://github.com/jordancoblin/paper-notes/blob/main/world_models.md)]
 
 ### September
-- The Phenomenon of Policy Churn [[paper](https://arxiv.org/pdf/2206.00730.pdf)] [[notes](https://github.com/jordancoblin/paper-notes/blob/main/policy_churn.md)]
-- Reinforcement Learning with Unsupervised Auxiliary Tasks [[paper](https://arxiv.org/pdf/1611.05397.pdf)] [[notes](https://github.com/jordancoblin/paper-notes/blob/main/unsupervised_aux_tasks.md)]
+- The Phenomenon of Policy Churn [[paper](https://arxiv.org/pdf/2206.00730.pdf)][[notes](https://github.com/jordancoblin/paper-notes/blob/main/policy_churn.md)]
+- Reinforcement Learning with Unsupervised Auxiliary Tasks [[paper](https://arxiv.org/pdf/1611.05397.pdf)][[notes](https://github.com/jordancoblin/paper-notes/blob/main/unsupervised_aux_tasks.md)]
+- [Blog Post] Understanding Variational Autoencoders (VAEs) [[post](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)][[notes](https://github.com/jordancoblin/paper-notes/blob/main/vaes_blog_post.md)]
 
 ## TO ADD (already read)
 - Memento paper
