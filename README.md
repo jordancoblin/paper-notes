@@ -61,6 +61,9 @@ Continual Learning in DRL/Performance Collapse/Dying ReLUs/etc:
 - [Dying ReLU and Initialization: Theory and Numerical Examples](https://arxiv.org/abs/1903.06733) (2019)
 - [A Convergence Analysis of Gradient Descent for Deep Linear Neural Networks](https://arxiv.org/abs/1810.02281)
 
+DL:
+- [Imagenet classification with deep convolutional neural networks](https://dl.acm.org/doi/pdf/10.1145/3065386)
+
 OpenAI Spinning up RL Key Papers:
 
 https://spinningup.openai.com/en/latest/spinningup/keypapers.html
