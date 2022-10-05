@@ -67,6 +67,7 @@ DL:
 MBRL:
 - [A Game Theoretic Framework for Model Based Reinforcement Learning](https://arxiv.org/pdf/2004.07804.pdf)
 - [Competitive Gradient Descent](https://arxiv.org/abs/1905.12103)
+- [LEARNING AWARENESS MODELS](https://arxiv.org/pdf/1804.06318.pdf)
 
 OpenAI Spinning up RL Key Papers:
 
