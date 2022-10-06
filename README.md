@@ -69,6 +69,7 @@ MBRL:
 - [Competitive Gradient Descent](https://arxiv.org/abs/1905.12103)
 - [LEARNING AWARENESS MODELS](https://arxiv.org/pdf/1804.06318.pdf)
 - [Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114)
+- [When to Trust Your Model: Model-Based Policy Optimization](https://arxiv.org/pdf/1906.08253.pdf)
 
 OpenAI Spinning up RL Key Papers:
 
