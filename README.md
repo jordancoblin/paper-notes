@@ -62,6 +62,8 @@ Continual Learning in DRL/Performance Collapse/Dying ReLUs/etc:
 - [Which Neural Net Architectures Give Rise To Exploding and Vanishing Gradients?](https://arxiv.org/abs/1801.03744) (2018)
 - [Dying ReLU and Initialization: Theory and Numerical Examples](https://arxiv.org/abs/1903.06733) (2019)
 - [A Convergence Analysis of Gradient Descent for Deep Linear Neural Networks](https://arxiv.org/abs/1810.02281)
+- [Meta-Learning Representations for Continual Learning](https://arxiv.org/pdf/1905.12588.pdf) - Khurram's paper
+- [Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference](https://arxiv.org/pdf/1810.11910.pdf) - MER paper
 
 DL:
 - [Imagenet classification with deep convolutional neural networks](https://dl.acm.org/doi/pdf/10.1145/3065386)
