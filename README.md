@@ -64,6 +64,7 @@ Continual Learning in DRL/Performance Collapse/Dying ReLUs/etc:
 - [A Convergence Analysis of Gradient Descent for Deep Linear Neural Networks](https://arxiv.org/abs/1810.02281)
 - [Meta-Learning Representations for Continual Learning](https://arxiv.org/pdf/1905.12588.pdf) - Khurram's paper
 - [Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference](https://arxiv.org/pdf/1810.11910.pdf) - MER paper
+- [Experience Replay for Continual Learning](https://proceedings.neurips.cc/paper/2019/file/fa7cdfad1a5aaf8370ebeda47a1ff1c3-Paper.pdf)
 
 DL:
 - [Imagenet classification with deep convolutional neural networks](https://dl.acm.org/doi/pdf/10.1145/3065386)
