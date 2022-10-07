@@ -66,6 +66,9 @@ Continual Learning in DRL/Performance Collapse/Dying ReLUs/etc:
 - [Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference](https://arxiv.org/pdf/1810.11910.pdf) - MER paper
 - [Experience Replay for Continual Learning](https://proceedings.neurips.cc/paper/2019/file/fa7cdfad1a5aaf8370ebeda47a1ff1c3-Paper.pdf)
 
+Memory:
+- [Unsupervised Predictive Memory in a Goal-Directed Agent](https://arxiv.org/pdf/1803.10760.pdf%22)
+
 DL:
 - [Imagenet classification with deep convolutional neural networks](https://dl.acm.org/doi/pdf/10.1145/3065386)
 
