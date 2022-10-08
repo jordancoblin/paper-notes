@@ -65,6 +65,7 @@ Continual Learning in DRL/Performance Collapse/Dying ReLUs/etc:
 - [Meta-Learning Representations for Continual Learning](https://arxiv.org/pdf/1905.12588.pdf) - Khurram's paper
 - [Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference](https://arxiv.org/pdf/1810.11910.pdf) - MER paper
 - [Experience Replay for Continual Learning](https://proceedings.neurips.cc/paper/2019/file/fa7cdfad1a5aaf8370ebeda47a1ff1c3-Paper.pdf)
+- [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321)
 
 Memory:
 - [Unsupervised Predictive Memory in a Goal-Directed Agent](https://arxiv.org/pdf/1803.10760.pdf%22)
