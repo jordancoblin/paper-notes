@@ -82,6 +82,9 @@ MBRL:
 - [Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114)
 - [When to Trust Your Model: Model-Based Policy Optimization](https://arxiv.org/pdf/1906.08253.pdf)
 
+Variatinal Inference:
+- [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
+
 OpenAI Spinning up RL Key Papers:
 
 https://spinningup.openai.com/en/latest/spinningup/keypapers.html
