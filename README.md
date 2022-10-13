@@ -29,6 +29,7 @@ neural networks and tree search (AlphaGo paper) [[paper](https://www.nature.com/
 ### October
 - Learning Latent Dynamics for Planning from Pixels [[paper](https://arxiv.org/pdf/1811.04551.pdf)][[notes](https://github.com/jordancoblin/paper-notes/blob/main/planet_paper_review.pdf)]
 - Auto-Encoding Variational Bayes [[paper](https://arxiv.org/pdf/1312.6114v10.pdf)]
+- The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables [[paper](https://openreview.net/pdf?id=rkE3y85ee)][[notes]()]
 
 ## TO ADD (already read)
 - Capacity loss paper
