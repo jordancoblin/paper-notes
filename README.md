@@ -84,6 +84,10 @@ MBRL:
 - [Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114)
 - [When to Trust Your Model: Model-Based Policy Optimization](https://arxiv.org/pdf/1906.08253.pdf)
 
+Real-world RL:
+- [An empirical investigation of the challenges of
+real-world reinforcement learning](https://arxiv.org/pdf/2003.11881.pdf)
+
 Variatinal Inference:
 - [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
 
