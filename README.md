@@ -69,6 +69,7 @@ Continual Learning in DRL/Performance Collapse/Dying ReLUs/etc:
 - [Experience Replay for Continual Learning](https://proceedings.neurips.cc/paper/2019/file/fa7cdfad1a5aaf8370ebeda47a1ff1c3-Paper.pdf)
 - [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321)
 - [Continual Learning for Robotics](https://www.researchgate.net/profile/Natalia-Diaz-Rodriguez/publication/334161654_Continual_Learning_for_Robotics/links/5d80f16fa6fdcc12cb96f278/Continual-Learning-for-Robotics.pdf) (Recommended from Zaheer)
+- [Continuous Meta-Learning without Tasks](https://arxiv.org/abs/1912.08866)
 
 Memory:
 - [Unsupervised Predictive Memory in a Goal-Directed Agent](https://arxiv.org/pdf/1803.10760.pdf%22)
