@@ -31,6 +31,9 @@ neural networks and tree search (AlphaGo paper) [[paper](https://www.nature.com/
 - Auto-Encoding Variational Bayes [[paper](https://arxiv.org/pdf/1312.6114v10.pdf)]
 - The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables [[paper](https://openreview.net/pdf?id=rkE3y85ee)][[notes](https://github.com/jordancoblin/paper-notes/blob/main/concrete_distr.md)]
 
+### November
+- Deep Reinforcement Learning amidst Continual Structured Non-Stationarity [[paper](http://proceedings.mlr.press/v139/xie21c/xie21c.pdf)] [[slides](https://github.com/jordancoblin/paper-notes/blob/main/lilac_v2.pdf)]
+
 ## TO ADD (already read)
 - Capacity loss paper
 
