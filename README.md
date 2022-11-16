@@ -85,6 +85,9 @@ MBRL:
 - [Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114)
 - [When to Trust Your Model: Model-Based Policy Optimization](https://arxiv.org/pdf/1906.08253.pdf)
 
+Inverse RL:
+- [Maximum Entropy Inverse Reinforcement Learning](https://www.cs.uic.edu/pub/Ziebart/Publications/maxentirl-bziebart.pdf)
+
 Real-world RL:
 - [An empirical investigation of the challenges of
 real-world reinforcement learning](https://arxiv.org/pdf/2003.11881.pdf)
