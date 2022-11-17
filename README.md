@@ -101,8 +101,9 @@ Real-world RL:
 - [An empirical investigation of the challenges of
 real-world reinforcement learning](https://arxiv.org/pdf/2003.11881.pdf)
 
-Variatinal Inference:
+Variational Inference:
 - [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
+- [An Introduction to Variational Autoencoders](https://arxiv.org/pdf/1906.02691.pdf) - Kingma
 
 OpenAI Spinning up RL Key Papers:
 
