@@ -88,6 +88,11 @@ MBRL:
 - [LEARNING AWARENESS MODELS](https://arxiv.org/pdf/1804.06318.pdf)
 - [Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114)
 - [When to Trust Your Model: Model-Based Policy Optimization](https://arxiv.org/pdf/1906.08253.pdf)
+- [Neural Network Dynamics
+for Model-Based Deep Reinforcement Learning
+with Model-Free Fine-Tuning](https://arxiv.org/pdf/1708.02596.pdf)
+  - Method for MLE training of model
+- [MODEL-ENSEMBLE TRUST-REGION POLICY OPTIMIZATION](https://arxiv.org/pdf/1802.10592.pdf)
 
 Inverse RL:
 - [Maximum Entropy Inverse Reinforcement Learning](https://www.cs.uic.edu/pub/Ziebart/Publications/maxentirl-bziebart.pdf)
