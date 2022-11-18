@@ -106,7 +106,9 @@ Variational Inference:
 - [An Introduction to Variational Autoencoders](https://arxiv.org/pdf/1906.02691.pdf) - Kingma
 
 NLP:
-- [Neural Programmer: Inducing Latent Programs with Gradient Descent](https://arxiv.org/abs/1511.04834)
+- Semantic parsing:
+  - [Neural Programmer: Inducing Latent Programs with Gradient Descent](https://arxiv.org/abs/1511.04834)
+  - [Learning to Compose Task-Specific Tree Structures](https://arxiv.org/abs/1707.02786)
 
 OpenAI Spinning up RL Key Papers:
 
