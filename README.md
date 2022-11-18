@@ -105,6 +105,9 @@ Variational Inference:
 - [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
 - [An Introduction to Variational Autoencoders](https://arxiv.org/pdf/1906.02691.pdf) - Kingma
 
+NLP:
+- [Neural Programmer: Inducing Latent Programs with Gradient Descent](https://arxiv.org/abs/1511.04834)
+
 OpenAI Spinning up RL Key Papers:
 
 https://spinningup.openai.com/en/latest/spinningup/keypapers.html
