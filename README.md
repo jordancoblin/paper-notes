@@ -101,6 +101,9 @@ Real-world RL:
 - [An empirical investigation of the challenges of
 real-world reinforcement learning](https://arxiv.org/pdf/2003.11881.pdf)
 
+Experiment best practices:
+- [Deep Reinforcement Learning at the Edge of the Statistical Precipice](https://arxiv.org/pdf/2108.13264.pdf)
+
 Variational Inference:
 - [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
 - [An Introduction to Variational Autoencoders](https://arxiv.org/pdf/1906.02691.pdf) - Kingma
