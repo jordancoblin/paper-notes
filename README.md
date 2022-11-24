@@ -102,7 +102,7 @@ Real-world RL:
 real-world reinforcement learning](https://arxiv.org/pdf/2003.11881.pdf)
 
 Experiment best practices:
-- [Deep Reinforcement Learning at the Edge of the Statistical Precipice](https://arxiv.org/pdf/2108.13264.pdf)
+- [Deep Reinforcement Learning at the Edge of the Statistical Precipice](https://arxiv.org/pdf/2108.13264.pdf)[[slides](https://agarwl.github.io/rliable/assets/slides_mlc.pdf)]
 
 Variational Inference:
 - [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
