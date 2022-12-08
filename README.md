@@ -80,6 +80,7 @@ Memory:
 
 DL:
 - [Imagenet classification with deep convolutional neural networks](https://dl.acm.org/doi/pdf/10.1145/3065386)
+- [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf)
 
 MBRL:
 - [World Models](https://arxiv.org/abs/1803.10122) -> [SimPLe](https://arxiv.org/abs/1903.00374) -> [PlaNet](https://arxiv.org/abs/1811.04551) -> [Dreamer](https://arxiv.org/abs/1912.01603)/[DreamerV2](https://arxiv.org/pdf/2010.02193.pdf)
