@@ -113,6 +113,9 @@ NLP:
 - Semantic parsing:
   - [Neural Programmer: Inducing Latent Programs with Gradient Descent](https://arxiv.org/abs/1511.04834)
   - [Learning to Compose Task-Specific Tree Structures](https://arxiv.org/abs/1707.02786)
+  
+General AI:
+- [LeCunn: A Path Towards Autonomous Machine Intelligence])https://openreview.net/forum?id=BZ5a1r-kVsf)
 
 OpenAI Spinning up RL Key Papers:
 
