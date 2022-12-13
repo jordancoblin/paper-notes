@@ -115,7 +115,7 @@ NLP:
   - [Learning to Compose Task-Specific Tree Structures](https://arxiv.org/abs/1707.02786)
   
 General AI:
-- [LeCunn: A Path Towards Autonomous Machine Intelligence](https://openreview.net/forum?id=BZ5a1r-kVsf)
+- [LeCun: A Path Towards Autonomous Machine Intelligence](https://openreview.net/forum?id=BZ5a1r-kVsf)
 
 OpenAI Spinning up RL Key Papers:
 
