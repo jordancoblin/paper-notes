@@ -78,6 +78,9 @@ Continual Learning in DRL/Performance Collapse/Dying ReLUs/etc:
 Memory:
 - [Unsupervised Predictive Memory in a Goal-Directed Agent](https://arxiv.org/pdf/1803.10760.pdf%22)
 
+Interpretability:
+- [Graying the black box: Understanding DQNs](https://arxiv.org/pdf/1602.02658.pdf)
+
 DL:
 - [Imagenet classification with deep convolutional neural networks](https://dl.acm.org/doi/pdf/10.1145/3065386)
 - [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf)
