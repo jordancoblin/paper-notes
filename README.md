@@ -98,6 +98,9 @@ with Model-Free Fine-Tuning](https://arxiv.org/pdf/1708.02596.pdf)
   - Method for MLE training of model
 - [MODEL-ENSEMBLE TRUST-REGION POLICY OPTIMIZATION](https://arxiv.org/pdf/1802.10592.pdf)
 
+Offline RL:
+- [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/pdf/2005.01643.pdf)
+
 Inverse RL:
 - [Maximum Entropy Inverse Reinforcement Learning](https://www.cs.uic.edu/pub/Ziebart/Publications/maxentirl-bziebart.pdf)
 
