@@ -1,5 +1,7 @@
 # No More Pesky Hyperparameters: Offline Hyperparameter Tuning for RL
 
+https://arxiv.org/pdf/2205.08716.pdf
+
 Agents often highly sensitive to hyperparams. Typically need sweeps to tune. 
 
 Tune hyper-parameters from a learned calibration model.
