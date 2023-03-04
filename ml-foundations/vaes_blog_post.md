@@ -1,5 +1,7 @@
 # Understanding Variational Autoencoders (VAEs)
 
+https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73
+
 VAEs are a type of deep generative model that have become popular in recent years (alongside GANs).
 
 **Autoencoder**: maps input data to "latent" representation (usually more compact, i.e. lower # of dimensions) via encoder. And then back to a representation with the original # of dimensions via the decoder.
