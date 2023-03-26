@@ -123,6 +123,9 @@ NLP:
 General AI:
 - [LeCun: A Path Towards Autonomous Machine Intelligence](https://openreview.net/forum?id=BZ5a1r-kVsf)
 
+Misc:
+- [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741)
+
 OpenAI Spinning up RL Key Papers:
 
 https://spinningup.openai.com/en/latest/spinningup/keypapers.html
